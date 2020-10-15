@@ -1,0 +1,18 @@
+﻿{
+  "Your issues": "你的问题",
+  "Refresh Issues": "刷新问题",
+  "No reported issues": "无发布的问题",
+  "Lucky you...": "你真幸运...",
+  "Bug": "Bug",
+  "Feedback required": "要求反馈",
+  "Closed": "关闭",
+  "{{completion}}%{{planned}}": "{{completion}}%{{planned}}",
+  ", planned for {{date}}": ", 计划的 {{date}}",
+  "Milestone: {{title}} ({{state}})": "Milestone: {{title}} ({{state}})",
+  "Open": "打开",
+  "{{ count }} comments": "{{ count }} 评论",
+  "You've received feedback response": "您收到了反馈意见",
+  "The Vortex developers require your assistance with a bug/suggestion which you have submitted. To view our response please click on any of the below links: <br /><br />{{ urlString }}": "Vortex开发人员需要您提供帮助，并提供您提交的错误/建议。 要查看我们的回复，请单击以下任何链接: <br /><br />{{ urlString }}",
+  "More": "更多",
+  "Close": "关闭"
+}
